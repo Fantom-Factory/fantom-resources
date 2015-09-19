@@ -1,6 +1,6 @@
-# Welcome
+## Fantom Wiki
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+[Community Resources List](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Resources%20List)
 
 ## Wiki features
 
@@ -16,27 +16,3 @@ $ hg clone https://fantomfactory@bitbucket.org/fantomfactory/wiki/wiki
 
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
 
-## Syntax highlighting
-
-
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
-
-[Pygments]: http://pygments.org/
-
-
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
