@@ -36,6 +36,7 @@
  - [fanGfx Fantom graphics lib](https://bitbucket.org/chunquedong/fangfx)
  - [fanlet A Fantom interface to Java servlet containers](https://bitbucket.org/liamstask/fanlet)
  - [IoC / Inversion Of Control](http://pods.fantomfactory.org/pods/afIoc/)
+ - [Mailgun](https://bitbucket.org/afrankvt/mailgun)
  - [Mustache mustache template](https://bitbucket.org/xored/mustache)
  - [MongoDb driver](http://pods.fantomfactory.org/pods/afMongo/)
  - [Pattern Matching Compiler Extend](https://bitbucket.org/lii/fantom_pattern_matching)
