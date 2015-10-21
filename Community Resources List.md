@@ -47,6 +47,11 @@
  - [Fantom migrations tool](https://bitbucket.org/katox/fantom-migrations)
  - [Maven plugin](https://github.com/xored/fmaven)
 
+## Server Environments ##
+ - [Linode](https://bitbucket.org/afrankvt/fantomlinodeguide)
+ - [Heroku](https://bitbucket.org/AlienFactory/heroku-buildpack-fantom)
+ - [OpenShift](https://bitbucket.org/AlienFactory/openshift-fantom-quickstart)
+
 ## Other ##
 
  - [Gundam A Web Game](http://www.alienfactory.co.uk/gundam/)
