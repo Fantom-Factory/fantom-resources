@@ -28,7 +28,7 @@
  - [Draft](https://bitbucket.org/afrankvt/draft)
  - [Slan](http://bitbucket.org/chunquedong/slan)
  - [Spectre](https://bitbucket.org/xored/spectre)
- - [Tales web framework](https://bitbucket.org/ksat/tales/)
+ - [Tales](https://bitbucket.org/ksat/tales/)
 
 ## Library ##
 
