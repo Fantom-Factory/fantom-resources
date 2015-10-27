@@ -1,6 +1,13 @@
 ## Fantom Wiki
 
-[Community Resources List](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Resources%20List)
+A public wiki for the [Fantom](http://fantom.org/) Language.
+
+ - [Community Resources](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Resources)
+ - [Community Libraries](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Libraries)
+
+Note that all pages here are reflected, and republished, on the [Fantom-Fantory](http://www.fantomfactory.org/wiki/) website.
+
+
 
 ## Wiki features
 
