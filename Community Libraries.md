@@ -32,15 +32,18 @@
 
 ## Misc ##
  - [Atom](http://pods.fantomfactory.org/pods/afAtom/) - Creating Atom (RSS) Feeds
+ - [Capture302](https://github.com/tcolar/captcha302) - Pure Fantom CAPTCHA generator
  - [Collections](https://github.com/xored/collections) - Persistent maps and lists
  - [Concurrent](http://pods.fantomfactory.org/pods/afConcurrent/) - Store mutable data in const objects
  - [fanGfx](https://bitbucket.org/chunquedong/fangfx) - Fantom graphics lib
  - [fanlet](https://bitbucket.org/liamstask/fanlet) - A Fantom interface to Java servlet containers
  - [Fancom](http://pods.fantomfactory.org/pods/afFancom/) - Fantom / COM Automation bridge
  - [Fancom Sapi](http://pods.fantomfactory.org/pods/afFancom/) -  Microsoft Speech API (SAPI) 5.4
- - [Mailgun](https://bitbucket.org/afrankvt/mailgun) - Wrapper for Mailgun email service.
+ - [JSON-RPC](https://github.com/xored/jsonrpc) - Pure Fantom implementation of the JSON-RPC 2.0 protocol
+ - [Mailgun](https://bitbucket.org/afrankvt/mailgun) - Wrapper for Mailgun email service
  - [Pattern Matching](https://bitbucket.org/lii/fantom_pattern_matching) - Pattern matching compiler extend 
  - [Pegger](http://pods.fantomfactory.org/pods/afPegger/) - Parsing Expression Grammar (PEG) implementation
+ - [Peg](https://github.com/xored/peg) - PEG parser
  - [Sizzle](http://pods.fantomfactory.org/pods/afSizzle/) - Query XML documents with CSS selectors
 
 If you have an Open Source Fantom project, or know of one, please add it to the list!
