@@ -41,5 +41,6 @@
 ## Applications ##
  - [Eggbox](http://pods.fantomfactory.org/pods/afEggbox/doc/) - Pod repository and website
  - [Explorer](http://pods.fantomfactory.org/pods/afExplorer/doc/) - File explorer and Fandoc editor
+ - [FantomCMS](https://github.com/jcriquet/FantomCMS) - A functional, modular content management system.
 
 If you have an Open Source Fantom project, or know of one, please add it to the list!
