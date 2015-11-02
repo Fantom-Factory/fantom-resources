@@ -3,9 +3,10 @@
  - [F4](http://www.xored.com/products/f4/) - A full-featured Eclipse IDE for Fantom.
 
 ## Tutorial ##
+ - [10 Differences Between Fantom and C#](http://www.fantomfactory.org/articles/10-differences-between-fantom-and-csharp)
+ - [10 Differences Between Fantom and Java](http://www.fantomfactory.org/articles/10-differences-between-fantom-and-java)
  - [Fantom tutorial](https://github.com/tomcl/fantom-tutorial)
  - [Programming Language Fantom 1.0](https://www.penflip.com/Hertz/programming-language-fantom-1-0?invite=dE1bRMms)
- - [From Java to Fantom in 10 Steps](http://www.fantomfactory.org/articles/from-java-to-fantom-in-10-steps)
  - [Learning Fantom](http://learningfantom.blogspot.com/)
  - [BedSheet Tutorial](http://www.fantomfactory.org/articles/bed-nap-tutorial)
 
