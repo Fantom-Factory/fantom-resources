@@ -15,7 +15,7 @@
  - [Mustache](https://bitbucket.org/xored/mustache) - A logic-free template engine
  - [Slim](http://pods.fantomfactory.org/pods/afSlim/) - Concise HTML templates
 
-## BedSheet AddOns ##
+## BedSheet Libraries##
  - [Cold Feet](http://pods.fantomfactory.org/pods/afColdFeet/) -  Asset caching strategy
  - [Duvet](http://pods.fantomfactory.org/pods/afDuvet/) - Delivers Javascript to the browser
  - [FormBean](http://pods.fantomfactory.org/pods/afFormBean/) - Fantom to HTML Form object mapping library
