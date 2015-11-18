@@ -27,7 +27,7 @@
  - [Morphia](http://pods.fantomfactory.org/pods/afMorphia/) - Fantom to MongoDB object mapping library
 
 ## Testing ##
- - [Bounce](http://pods.fantomfactory.org/pods/afBounce/) - Test web pages and BedSheet apps
+ - [Bounce](http://pods.fantomfactory.org/pods/afBounce/) - Test HTML pages and BedSheet apps
  - [Fancordion](http://pods.fantomfactory.org/pods/afFancordion/) - Readable acceptance tests
 
 ## Misc ##
@@ -41,6 +41,7 @@
  - [Fancom Sapi](http://pods.fantomfactory.org/pods/afFancom/) -  Microsoft Speech API (SAPI) 5.4
  - [JSON-RPC](https://github.com/xored/jsonrpc) - Pure Fantom implementation of the JSON-RPC 2.0 protocol
  - [Mailgun](https://bitbucket.org/afrankvt/mailgun) - Wrapper for Mailgun email service
+ - [Minion](https://bitbucket.org/mgiannini/minion/overview) - Autobuilds pods on src code change
  - [Pattern Matching](https://bitbucket.org/lii/fantom_pattern_matching) - Pattern matching compiler extend 
  - [Pegger](http://pods.fantomfactory.org/pods/afPegger/) - Parsing Expression Grammar (PEG) implementation
  - [Peg](https://github.com/xored/peg) - PEG parser
