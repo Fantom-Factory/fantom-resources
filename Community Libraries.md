@@ -35,7 +35,7 @@
  - [Capture302](https://github.com/tcolar/captcha302) - Pure Fantom CAPTCHA generator
  - [Collections](https://github.com/xored/collections) - Persistent maps and lists
  - [Concurrent](http://pods.fantomfactory.org/pods/afConcurrent/) - Store mutable data in const objects
- - [fanGfx](https://bitbucket.org/chunquedong/fangfx) - Fantom graphics lib
+ - [fanvas](https://bitbucket.org/chunquedong/fangfx) - Fantom graphics and GUI framework
  - [fanlet](https://bitbucket.org/liamstask/fanlet) - A Fantom interface to Java servlet containers
  - [Fancom](http://pods.fantomfactory.org/pods/afFancom/) - Fantom / COM Automation bridge
  - [Fancom Sapi](http://pods.fantomfactory.org/pods/afFancom/) -  Microsoft Speech API (SAPI) 5.4
