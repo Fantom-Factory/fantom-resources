@@ -28,6 +28,7 @@
 ## Tools (Command Line) ##
  - [Diff Fantom diff lib](https://bitbucket.org/dsavenko/diff)
  - [Fantom Migrations Tool](https://bitbucket.org/katox/fantom-migrations)
+ - [Fmake](https://bitbucket.org/chunquedong/fmake/src) - A Fantom style C++ build tool
  - [Less](http://pods.fantomfactory.org/pods/afLess4f/doc/)
  - [Markdown to Html](https://bitbucket.org/afrankvt/markdown)
  - [Maven plugin](https://github.com/xored/fmaven)
