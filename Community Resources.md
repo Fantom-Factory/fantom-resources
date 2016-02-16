@@ -1,6 +1,6 @@
 ## IDE ##
  - [Camembert](http://www.status302.com/camembert#.VfUFB2SF5Sw) - Lightweight IDE, written in Fantom.
- - [F4](http://www.xored.com/products/f4/) - A full-featured Eclipse IDE for Fantom.
+ - [F4](http://www.xored.com/products/f4/) - A full-featured Eclipse IDE for Fantom. 
     [Download latest here.](http://download.xored.com/f4/nightly/)
 
 ## Tutorial ##
