@@ -3,6 +3,10 @@
  - [F4](http://www.xored.com/products/f4/) - A full-featured Eclipse IDE for Fantom. 
     [Download latest here.](http://download.xored.com/f4/nightly/)
 
+## Pod / Library Repositories ##
+ - [Fantom-Factory Repo](http://pods.fantomfactory.org/)
+ - [Status 302 Repo](http://repo.status302.com/)
+
 ## Tutorial ##
  - [Fantom Tour](http://fantom.org/doc/docIntro/Tour)
  - [10 Differences Between Fantom and C#](http://www.fantomfactory.org/articles/10-differences-between-fantom-and-csharp)
@@ -16,10 +20,6 @@
  - [Heroku](https://bitbucket.org/AlienFactory/heroku-buildpack-fantom) - Deploy Fantom Apps to Heroku
  - [Linode](https://bitbucket.org/afrankvt/fantomlinodeguide) - Guides for getting Fantom up and running on Debian Linode.
  - [OpenShift](https://bitbucket.org/AlienFactory/openshift-fantom-quickstart) - Deploy Fantom Apps to RedHat's OpenShift
-
-## Pod / Library Repositories ##
- - [Fantom-Factory Repo](http://pods.fantomfactory.org/)
- - [Status 302 Repo](http://repo.status302.com/)
 
 ## Compiler Backend ##
  - [Fantom on Android](https://bitbucket.org/chunquedong/fan-1.0/)
