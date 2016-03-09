@@ -20,6 +20,7 @@
  - [Heroku](https://bitbucket.org/AlienFactory/heroku-buildpack-fantom) - Deploy Fantom Apps to Heroku
  - [Linode](https://bitbucket.org/afrankvt/fantomlinodeguide) - Guides for getting Fantom up and running on Debian Linode.
  - [OpenShift](https://bitbucket.org/AlienFactory/openshift-fantom-quickstart) - Deploy Fantom Apps to RedHat's OpenShift
+ - [Docker](https://github.com/chunquedong/dockerFantom) - Deploy Fantom with Docker
 
 ## Compiler Backend ##
  - [Fantom on Android](https://bitbucket.org/chunquedong/fan-1.0/)
