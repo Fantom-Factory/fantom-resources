@@ -4,7 +4,7 @@
     [Download latest here.](http://download.xored.com/f4/nightly/)
 
 ## Pod / Library Repositories ##
- - [Fantom-Factory Repo](http://pods.fantomfactory.org/)
+ - [Fantom-Factory Eggbox Repo](http://pods.fantomfactory.org/)
  - [Status 302 Repo](http://repo.status302.com/)
 
 ## Tutorial ##
