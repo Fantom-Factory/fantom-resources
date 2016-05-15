@@ -1,5 +1,7 @@
 # Code Snippets
 
+Snippets of sample Fantom code.
+
  - [Fantom Application Builder](https://bitbucket.org/snippets/fantomfactory/bEXMe) - turns Fantom pods into standalone applications.
  - [Internet Chuck Norris Database](https://bitbucket.org/snippets/fantomfactory/6Kqoe) - a mini API that lets you retrieve jokes from the Internet Chuck Norris Database.
  - [Run Fantom Code in a Browser!](https://bitbucket.org/snippets/fantomfactory/xyd6o/run-fantom-code-in-a-browser) - A demo BedSheet web app that runs the FWT example in a browser.
