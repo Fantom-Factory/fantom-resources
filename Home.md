@@ -18,7 +18,7 @@ The wiki itself is actually a mercurial repository, which means you can clone it
 Go ahead and try:
 
 ```
-$ hg clone https://fantomfactory@bitbucket.org/fantomfactory/wiki/wiki
+$ hg clone https://bitbucket.org/fantomfactory/fantom-wiki/wiki
 ```
 
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
