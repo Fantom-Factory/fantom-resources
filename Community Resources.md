@@ -31,6 +31,7 @@
 ## Tools (Command Line) ##
  - [Diff Fantom diff lib](https://bitbucket.org/dsavenko/diff)
  - [Fantom Migrations Tool](https://bitbucket.org/katox/fantom-migrations)
+ - [Fantom Pod Manager](http://pods.fantomfactory.org/pods/afFpm/) - A package manager for Fantom
  - [Fmake](https://bitbucket.org/chunquedong/fmake/src) - A Fantom style C++ build tool
  - [Fwtsh](https://bitbucket.org/ivan_inozemtsev/fwtsh/src/c364930b0ff3d8bd5c0c54f4b15933af8ac542ea?at=default) - FWT base shell
  - [Less4f](http://pods.fantomfactory.org/pods/afLess4f/doc/) or [LESS](https://bitbucket.org/afrankvt/less) - Compiles `.less` files into `.css` files
