@@ -13,7 +13,6 @@
  - [10 Differences Between Fantom and Java](http://www.fantomfactory.org/articles/10-differences-between-fantom-and-java)
  - [Fantom tutorial](https://github.com/tomcl/fantom-tutorial)
  - [Programming Language Fantom 1.0](https://www.penflip.com/Hertz/programming-language-fantom-1-0?invite=dE1bRMms)
- - [Learning Fantom](http://learningfantom.blogspot.com/)
  - [BedSheet Tutorial](http://www.fantomfactory.org/articles/bed-nap-tutorial)
 
 ## Server Environments ##
