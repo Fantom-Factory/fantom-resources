@@ -40,6 +40,7 @@
  - [Unix Cron](https://bitbucket.org/martinlau/cron)
 
 ## Other ##
+ - [brainfuck-fantom](https://github.com/fraya/brainfuck-fantom) - Brainfuck interpreter in Fantom programming language
  - [Fantex](http://fantex.fantomfactory.org/) - Online Fantom Regular Expression Editor
  - [Fantom Coding Ground](http://www.tutorialspoint.com/execute_fantom_online.php) - Online Fantom Playground
  - [Fantom Puzzlers](http://ksat.me/fantom-puzzlers/) - Online Fantom Quiz
