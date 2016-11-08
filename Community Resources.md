@@ -48,7 +48,7 @@
  - [Fantex](http://fantex.fantomfactory.org/) - Online Fantom Regular Expression Editor
 
 ## Games ##
- - [Fanny the Fantom](http://fanny.fantomfactory.org/) - A jump and duck game rendered in stunning retro 3D vector graphics.
+ - [Fanny the Fantom](http://fanny.fantomfactory.org/) - A jump game rendered in stunning retro 3D vector graphics.
  - [Fantom Puzzlers](http://ksat.me/fantom-puzzlers/) - Online Fantom Quiz
  - [Gundam](http://gundam.fantomfactory.org/) - A horizontally scrolling shoot'em'up game.
 
