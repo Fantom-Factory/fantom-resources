@@ -18,6 +18,7 @@
  - [Fantom tutorial](https://github.com/tomcl/fantom-tutorial)
  - [Programming Language Fantom 1.0](https://www.penflip.com/Hertz/programming-language-fantom-1-0?invite=dE1bRMms)
  - [BedSheet Tutorial](http://www.alienfactory.co.uk/articles/bed-nap-tutorial)
+ - [Create a Mini Web Application with Wisp](http://www.alienfactory.co.uk/articles/create-a-mini-web-app-with-wisp)
 
 ## Server Environments ##
  - [Heroku](https://bitbucket.org/AlienFactory/heroku-buildpack-fantom) - Deploy Fantom Apps to Heroku
