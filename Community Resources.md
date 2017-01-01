@@ -48,9 +48,10 @@
  - [Fantex](http://fantex.fantomfactory.org/) - Online Fantom Regular Expression Editor
 
 ## Games ##
- - [Fanny the Fantom](http://fanny.fantomfactory.org/) - A jump game rendered in stunning retro 3D vector graphics.
+ - [Fanny the Fantom](http://fanny.fantomfactory.org/) - A jump game rendered in stunning retro 3D vector graphics
+ - [Fantom 2048](https://github.com/rexim/fantom2048) - The 2048 game re-written in Fantom
  - [Fantom Puzzlers](http://ksat.me/fantom-puzzlers/) - Online Fantom Quiz
- - [Gundam](http://gundam.fantomfactory.org/) - A horizontally scrolling shoot'em'up game.
+ - [Gundam](http://gundam.fantomfactory.org/) - A horizontally scrolling shoot'em'up game
 
 ## Applications ##
  - [Eggbox](http://eggbox.fantomfactory.org/pods/afEggbox/doc/) - Pod repository and website
