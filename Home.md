@@ -2,6 +2,7 @@
 
 A public wiki for the [Fantom](http://fantom.org/) Language.
 
+ - [Media](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Media)
  - [Community Resources](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Resources)
  - [Community Libraries](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Community%20Libraries)
  - [Code Snippets](https://bitbucket.org/fantomfactory/fantom-wiki/wiki/Code Snippets)
@@ -23,4 +24,3 @@ $ hg clone https://bitbucket.org/fantomfactory/fantom-wiki/wiki
 ```
 
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
-
