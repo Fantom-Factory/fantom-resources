@@ -13,7 +13,7 @@ In reverse chronological order:
 
  - **[F4 Fantom IDE](https://www.youtube.com/watch?v=zVqHsFs_RJo)** - by 
 Ivan Inozemtsev (2010)  
-  An overview of F4; the Eclipse (DLTK) based IDE for Fantom
+  An overview of F4; the Eclipse (DLTK) based IDE for Fantom.
 
 
 
