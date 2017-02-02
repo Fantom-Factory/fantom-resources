@@ -29,7 +29,7 @@
 ## Compiler Backend ##
  - [Fantom on Android](https://bitbucket.org/chunquedong/fan-1.0/)
  - [Fantom Python VM](https://bitbucket.org/_tactics/fantom-pythonvm)
- - [Fantom VM](https://bitbucket.org/chunquedong/fanrun)
+ - [Fantom C++ VM](https://bitbucket.org/chunquedong/fanrun)
  - [LLVM backend](http://code.google.com/p/fan-llvm/source/browse/)
 
 ## Tools (Command Line) ##
